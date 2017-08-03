@@ -1,0 +1,34 @@
+.sidebar {
+    overflow: hidden;
+    margin-top: -80px;
+    width: 130pt;
+    float: left;
+    height: 150vh;
+    background-color: #efefef	;
+    color: black;
+    font-size: 18pt;
+    margin-right: -8px;
+    //margin-bottom: -20px;
+}
+
+.sidebar img {
+  margin-top: 80px;
+  width: 85%;
+  padding-left: 18px;
+}
+
+.body ul {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+
+.body li {
+  font-size: 12px;
+  list-style: none;
+}
+
+.portal h3 {
+  font-size: 12px;
+  margin-left: 20px;
+  margin-bottom: -10px;
+}
